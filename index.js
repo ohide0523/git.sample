@@ -4,4 +4,6 @@ const calc =()=>{
         num + num
     ))
 }
+
 console.log(calc())
+const kaho = "10月"
