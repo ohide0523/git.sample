@@ -5,3 +5,4 @@ const calc =()=>{
     ))
 }
 console.log(calc())
+const hide ="5月"
